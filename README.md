@@ -35,7 +35,7 @@ CREATE TABLE `students` (
 ## StrukturProyek
 
 Berikut adalah struktur proyek:
-
+```
 sekolahnyachaiden/
 │
 ├── src/main/java/com/example/
@@ -49,7 +49,7 @@ sekolahnyachaiden/
 │
 ├── pom.xml
 └── README.md
-
+```
 
 ## Teknologi yang digunakan:
 Java: Bahasa pemrograman utama yang digunakan untuk mengembangkan aplikasi ini.
